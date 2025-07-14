@@ -7,7 +7,6 @@ body {
   min-height: 100vh;
 }
 
-/* Yengil gradient overlay (figma effektiga yaqinlashtirish uchun) */
 body::before {
   content: '';
   position: fixed;
